@@ -1,4 +1,4 @@
-# Machine-Learning-Course-
+# Machine-Learning-Projects
 
 Completed online Machine Learning course taught by Stanford professor Andrew Ng.
 These are all the projects I have completed throughout the course. 
